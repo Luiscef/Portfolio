@@ -124,7 +124,7 @@ export default function About() {
             </div>
 
             <a
-              href="/cv.pdf"
+              href="/cv/cv_luis.pdf"
               download
               className="inline-flex items-center gap-2 px-6 py-3 rounded-xl border border-violet-500/40 text-violet-300 hover:text-white hover:bg-violet-600/20 hover:border-violet-500/70 transition-all duration-200 text-sm font-semibold"
             >
